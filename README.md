@@ -18,16 +18,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/tedacodder/myleetcode_solution/tree/master/0412-fizz-buzz) |
 | [2556-convert-the-temperature](https://github.com/tedacodder/myleetcode_solution/tree/master/2556-convert-the-temperature) |
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/tedacodder/myleetcode_solution/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/tedacodder/myleetcode_solution/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tedacodder/myleetcode_solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2639-separate-the-digits-in-an-array](https://github.com/tedacodder/myleetcode_solution/tree/master/2639-separate-the-digits-in-an-array) |
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/tedacodder/myleetcode_solution/tree/master/0412-fizz-buzz) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tedacodder/myleetcode_solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
