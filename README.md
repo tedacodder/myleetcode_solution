@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/tedacodder/myleetcode_solution/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/tedacodder/myleetcode_solution/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/tedacodder/myleetcode_solution/tree/master/0412-fizz-buzz) |
 | [2556-convert-the-temperature](https://github.com/tedacodder/myleetcode_solution/tree/master/2556-convert-the-temperature) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/tedacodder/myleetcode_solution/tree/master/0013-roman-to-integer) |
 | [0383-ransom-note](https://github.com/tedacodder/myleetcode_solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tedacodder/myleetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/tedacodder/myleetcode_solution/tree/master/0412-fizz-buzz) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/tedacodder/myleetcode_solution/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/tedacodder/myleetcode_solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tedacodder/myleetcode_solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/tedacodder/myleetcode_solution/tree/master/0229-majority-element-ii) |
