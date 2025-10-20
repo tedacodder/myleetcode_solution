@@ -3,7 +3,7 @@ class Solution:
         a=0
         b=len(numbers)-1
         while numbers[a]+numbers[b]!=target:
-            if numbers[a]+numbers[b]>target:
+            if numbers[a]+numbers[b] > target:
                 b-=1
             else:
                 a+=1
