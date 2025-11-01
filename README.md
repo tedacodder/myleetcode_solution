@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/tedacodder/myleetcode_solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2058-concatenation-of-array](https://github.com/tedacodder/myleetcode_solution/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tedacodder/myleetcode_solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2465-shifting-letters-ii](https://github.com/tedacodder/myleetcode_solution/tree/master/2465-shifting-letters-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tedacodder/myleetcode_solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2639-separate-the-digits-in-an-array](https://github.com/tedacodder/myleetcode_solution/tree/master/2639-separate-the-digits-in-an-array) |
 ## Two Pointers
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/tedacodder/myleetcode_solution/tree/master/0412-fizz-buzz) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/tedacodder/myleetcode_solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tedacodder/myleetcode_solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2465-shifting-letters-ii](https://github.com/tedacodder/myleetcode_solution/tree/master/2465-shifting-letters-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/tedacodder/myleetcode_solution/tree/master/0219-contains-duplicate-ii) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/tedacodder/myleetcode_solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [2465-shifting-letters-ii](https://github.com/tedacodder/myleetcode_solution/tree/master/2465-shifting-letters-ii) |
 <!---LeetCode Topics End-->
