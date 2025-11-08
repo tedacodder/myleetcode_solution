@@ -20,9 +20,7 @@ class Solution:
                 b=mid
                 l=mid+1
             elif nums[mid]>target:
-                r=mid-1
-                
-                
+                r=mid-1   
             else:
                 l=mid+1
                 
