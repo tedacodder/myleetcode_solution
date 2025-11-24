@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/tedacodder/myleetcode_solution/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/tedacodder/myleetcode_solution/tree/master/0917-boats-to-save-people) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tedacodder/myleetcode_solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1646-kth-missing-positive-number](https://github.com/tedacodder/myleetcode_solution/tree/master/1646-kth-missing-positive-number) |
 | [1752-arithmetic-subarrays](https://github.com/tedacodder/myleetcode_solution/tree/master/1752-arithmetic-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tedacodder/myleetcode_solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2058-concatenation-of-array](https://github.com/tedacodder/myleetcode_solution/tree/master/2058-concatenation-of-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/tedacodder/myleetcode_solution/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/tedacodder/myleetcode_solution/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tedacodder/myleetcode_solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1646-kth-missing-positive-number](https://github.com/tedacodder/myleetcode_solution/tree/master/1646-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
 | ------- |
