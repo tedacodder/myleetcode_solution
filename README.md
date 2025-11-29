@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/tedacodder/myleetcode_solution/tree/master/0917-boats-to-save-people) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tedacodder/myleetcode_solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tedacodder/myleetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1480-running-sum-of-1d-array](https://github.com/tedacodder/myleetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/tedacodder/myleetcode_solution/tree/master/1646-kth-missing-positive-number) |
 | [1752-arithmetic-subarrays](https://github.com/tedacodder/myleetcode_solution/tree/master/1752-arithmetic-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tedacodder/myleetcode_solution/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tedacodder/myleetcode_solution/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/tedacodder/myleetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/tedacodder/myleetcode_solution/tree/master/2102-find-the-middle-index-in-array) |
 | [2465-shifting-letters-ii](https://github.com/tedacodder/myleetcode_solution/tree/master/2465-shifting-letters-ii) |
 ## Dynamic Programming
