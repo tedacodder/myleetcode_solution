@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/tedacodder/myleetcode_solution/tree/master/2465-shifting-letters-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tedacodder/myleetcode_solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2639-separate-the-digits-in-an-array](https://github.com/tedacodder/myleetcode_solution/tree/master/2639-separate-the-digits-in-an-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tedacodder/myleetcode_solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/tedacodder/myleetcode_solution/tree/master/0412-fizz-buzz) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/tedacodder/myleetcode_solution/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2556-convert-the-temperature](https://github.com/tedacodder/myleetcode_solution/tree/master/2556-convert-the-temperature) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tedacodder/myleetcode_solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
