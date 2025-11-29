@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/tedacodder/myleetcode_solution/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tedacodder/myleetcode_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/tedacodder/myleetcode_solution/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/tedacodder/myleetcode_solution/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/tedacodder/myleetcode_solution/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/tedacodder/myleetcode_solution/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/tedacodder/myleetcode_solution/tree/master/0917-boats-to-save-people) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/tedacodder/myleetcode_solution/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/tedacodder/myleetcode_solution/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/tedacodder/myleetcode_solution/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tedacodder/myleetcode_solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/tedacodder/myleetcode_solution/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tedacodder/myleetcode_solution/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/tedacodder/myleetcode_solution/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/tedacodder/myleetcode_solution/tree/master/0682-baseball-game) |
 ## Greedy
 |  |
 | ------- |
