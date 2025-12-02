@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/tedacodder/myleetcode_solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/tedacodder/myleetcode_solution/tree/master/0066-plus-one) |
+| [0224-basic-calculator](https://github.com/tedacodder/myleetcode_solution/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/tedacodder/myleetcode_solution/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/tedacodder/myleetcode_solution/tree/master/0412-fizz-buzz) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/tedacodder/myleetcode_solution/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tedacodder/myleetcode_solution/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/tedacodder/myleetcode_solution/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/tedacodder/myleetcode_solution/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/tedacodder/myleetcode_solution/tree/master/0224-basic-calculator) |
 | [0383-ransom-note](https://github.com/tedacodder/myleetcode_solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tedacodder/myleetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/tedacodder/myleetcode_solution/tree/master/0412-fizz-buzz) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/tedacodder/myleetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tedacodder/myleetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tedacodder/myleetcode_solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0224-basic-calculator](https://github.com/tedacodder/myleetcode_solution/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/tedacodder/myleetcode_solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tedacodder/myleetcode_solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/tedacodder/myleetcode_solution/tree/master/0234-palindrome-linked-list) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/tedacodder/myleetcode_solution/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/tedacodder/myleetcode_solution/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
