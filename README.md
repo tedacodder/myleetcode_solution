@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/tedacodder/myleetcode_solution/tree/master/0283-move-zeroes) |
 | [0330-patching-array](https://github.com/tedacodder/myleetcode_solution/tree/master/0330-patching-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tedacodder/myleetcode_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/tedacodder/myleetcode_solution/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/tedacodder/myleetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/tedacodder/myleetcode_solution/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/tedacodder/myleetcode_solution/tree/master/0792-binary-search) |
