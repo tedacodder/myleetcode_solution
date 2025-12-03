@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/tedacodder/myleetcode_solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/tedacodder/myleetcode_solution/tree/master/0066-plus-one) |
+| [0171-excel-sheet-column-number](https://github.com/tedacodder/myleetcode_solution/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/tedacodder/myleetcode_solution/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/tedacodder/myleetcode_solution/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/tedacodder/myleetcode_solution/tree/master/0412-fizz-buzz) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tedacodder/myleetcode_solution/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/tedacodder/myleetcode_solution/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/tedacodder/myleetcode_solution/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/tedacodder/myleetcode_solution/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/tedacodder/myleetcode_solution/tree/master/0224-basic-calculator) |
 | [0383-ransom-note](https://github.com/tedacodder/myleetcode_solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tedacodder/myleetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
