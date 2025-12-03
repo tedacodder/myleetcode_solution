@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/tedacodder/myleetcode_solution/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/tedacodder/myleetcode_solution/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2465-shifting-letters-ii](https://github.com/tedacodder/myleetcode_solution/tree/master/2465-shifting-letters-ii) |
+| [2540-minimum-common-value](https://github.com/tedacodder/myleetcode_solution/tree/master/2540-minimum-common-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tedacodder/myleetcode_solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2639-separate-the-digits-in-an-array](https://github.com/tedacodder/myleetcode_solution/tree/master/2639-separate-the-digits-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tedacodder/myleetcode_solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/tedacodder/myleetcode_solution/tree/master/0917-boats-to-save-people) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tedacodder/myleetcode_solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2000-reverse-prefix-of-word](https://github.com/tedacodder/myleetcode_solution/tree/master/2000-reverse-prefix-of-word) |
+| [2540-minimum-common-value](https://github.com/tedacodder/myleetcode_solution/tree/master/2540-minimum-common-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tedacodder/myleetcode_solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Math
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-arithmetic-subarrays](https://github.com/tedacodder/myleetcode_solution/tree/master/1752-arithmetic-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tedacodder/myleetcode_solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/tedacodder/myleetcode_solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2540-minimum-common-value](https://github.com/tedacodder/myleetcode_solution/tree/master/2540-minimum-common-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tedacodder/myleetcode_solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tedacodder/myleetcode_solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tedacodder/myleetcode_solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/tedacodder/myleetcode_solution/tree/master/1646-kth-missing-positive-number) |
+| [2540-minimum-common-value](https://github.com/tedacodder/myleetcode_solution/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
 | ------- |
