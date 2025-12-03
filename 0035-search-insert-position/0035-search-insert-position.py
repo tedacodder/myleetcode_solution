@@ -1,6 +1,20 @@
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
-        x=bisect_left(nums,target)
-        return x
+        l=0
+        r=len(nums)-1
+        while l<r:
+            mid=(l+r)//2
+            if nums[mid]>target:
+                r=mid
+            elif nums[mid]<target:
+                l=mid+1
+            else:
+                return mid
+        if nums[l]<target:
+            return l+1
+        return l   
+            
+        
+
             
         
