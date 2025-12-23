@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/tedacodder/myleetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/tedacodder/myleetcode_solution/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/tedacodder/myleetcode_solution/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/tedacodder/myleetcode_solution/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/tedacodder/myleetcode_solution/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/tedacodder/myleetcode_solution/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/tedacodder/myleetcode_solution/tree/master/0917-boats-to-save-people) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/tedacodder/myleetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/tedacodder/myleetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/tedacodder/myleetcode_solution/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/tedacodder/myleetcode_solution/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/tedacodder/myleetcode_solution/tree/master/0844-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/tedacodder/myleetcode_solution/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/tedacodder/myleetcode_solution/tree/master/3174-clear-digits) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/tedacodder/myleetcode_solution/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/tedacodder/myleetcode_solution/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
