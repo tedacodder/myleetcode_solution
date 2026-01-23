@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/tedacodder/myleetcode_solution/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/tedacodder/myleetcode_solution/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/tedacodder/myleetcode_solution/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/tedacodder/myleetcode_solution/tree/master/0415-add-strings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/tedacodder/myleetcode_solution/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2556-convert-the-temperature](https://github.com/tedacodder/myleetcode_solution/tree/master/2556-convert-the-temperature) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tedacodder/myleetcode_solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/tedacodder/myleetcode_solution/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/tedacodder/myleetcode_solution/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/tedacodder/myleetcode_solution/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/tedacodder/myleetcode_solution/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/tedacodder/myleetcode_solution/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/tedacodder/myleetcode_solution/tree/master/1929-concatenation-of-array) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/tedacodder/myleetcode_solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tedacodder/myleetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/tedacodder/myleetcode_solution/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/tedacodder/myleetcode_solution/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/tedacodder/myleetcode_solution/tree/master/0451-sort-characters-by-frequency) |
 | [0844-backspace-string-compare](https://github.com/tedacodder/myleetcode_solution/tree/master/0844-backspace-string-compare) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/tedacodder/myleetcode_solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
