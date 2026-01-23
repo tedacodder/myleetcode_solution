@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/tedacodder/myleetcode_solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/tedacodder/myleetcode_solution/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/tedacodder/myleetcode_solution/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/tedacodder/myleetcode_solution/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/tedacodder/myleetcode_solution/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/tedacodder/myleetcode_solution/tree/master/0268-missing-number) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tedacodder/myleetcode_solution/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/tedacodder/myleetcode_solution/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/tedacodder/myleetcode_solution/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/tedacodder/myleetcode_solution/tree/master/0844-backspace-string-compare) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/tedacodder/myleetcode_solution/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/tedacodder/myleetcode_solution/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/tedacodder/myleetcode_solution/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/tedacodder/myleetcode_solution/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/tedacodder/myleetcode_solution/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/tedacodder/myleetcode_solution/tree/master/0171-excel-sheet-column-number) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tedacodder/myleetcode_solution/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/tedacodder/myleetcode_solution/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/tedacodder/myleetcode_solution/tree/master/0645-set-mismatch) |
 ## Queue
