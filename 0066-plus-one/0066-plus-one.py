@@ -1,8 +1,15 @@
 class Solution:
     def plusOne(self, digits: List[int]) -> List[int]:
-        x=[str(i) for i in digits]
-        x="".join(x)
-        x=int(x)
-        x+=1
-        z=[int(j) for j in str(x)]
-        return z
+        ans=[]
+        i=len(digits)-1
+        carry=1
+        while i>=0 or carry:
+            total=digits[i]+carry if i>=0 else carry
+            carry=0
+            if total>9:
+                carry=int(str(total)[0])
+                total=int(str(total)[1])  
+            ans.append(total)
+            i-=1
+        ans.reverse()
+        return ans
