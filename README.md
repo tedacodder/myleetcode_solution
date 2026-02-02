@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/tedacodder/myleetcode_solution/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/tedacodder/myleetcode_solution/tree/master/0415-add-strings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/tedacodder/myleetcode_solution/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2413-smallest-even-multiple](https://github.com/tedacodder/myleetcode_solution/tree/master/2413-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/tedacodder/myleetcode_solution/tree/master/2556-convert-the-temperature) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tedacodder/myleetcode_solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
@@ -310,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/tedacodder/myleetcode_solution/tree/master/0933-number-of-recent-calls) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/tedacodder/myleetcode_solution/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/tedacodder/myleetcode_solution/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
