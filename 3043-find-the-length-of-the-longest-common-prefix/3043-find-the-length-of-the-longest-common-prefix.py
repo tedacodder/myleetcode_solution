@@ -1,16 +1,16 @@
 class Solution:
     def longestCommonPrefix(self, arr1: List[int], arr2: List[int]) -> int:
-        arr1.sort()
-        
-        z={}
+       
+        z=set()
         for i in arr1:
             s=str(i)
             a=""
             for j in s:
                 a+=j
                 if a not in z:
-                    z[a]=len(a)
+                    z.add(a)
         ans=0
+        print(a)
         
         for i in range(len(arr2)):
             x=""
@@ -18,7 +18,7 @@ class Solution:
             for j in range(len(y)):
                 x+=y[j]
                 if x in z:
-                    ans=max(ans,z[x])
+                    ans=max(ans,len(x))
                 else:
                     break
         return ans
