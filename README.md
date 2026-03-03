@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/tedacodder/myleetcode_solution/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/tedacodder/myleetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tedacodder/myleetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/tedacodder/myleetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/tedacodder/myleetcode_solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tedacodder/myleetcode_solution/tree/master/0283-move-zeroes) |
+| [0304-range-sum-query-2d-immutable](https://github.com/tedacodder/myleetcode_solution/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0330-patching-array](https://github.com/tedacodder/myleetcode_solution/tree/master/0330-patching-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tedacodder/myleetcode_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/tedacodder/myleetcode_solution/tree/master/0455-assign-cookies) |
@@ -57,8 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tedacodder/myleetcode_solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tedacodder/myleetcode_solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tedacodder/myleetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tedacodder/myleetcode_solution/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/tedacodder/myleetcode_solution/tree/master/0125-valid-palindrome) |
@@ -76,8 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tedacodder/myleetcode_solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tedacodder/myleetcode_solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0013-roman-to-integer](https://github.com/tedacodder/myleetcode_solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/tedacodder/myleetcode_solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tedacodder/myleetcode_solution/tree/master/0067-add-binary) |
@@ -91,8 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/tedacodder/myleetcode_solution/tree/master/2556-convert-the-temperature) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tedacodder/myleetcode_solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/tedacodder/myleetcode_solution/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/tedacodder/myleetcode_solution/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/tedacodder/myleetcode_solution/tree/master/0415-add-strings) |
@@ -105,8 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/tedacodder/myleetcode_solution/tree/master/2639-separate-the-digits-in-an-array) |
 | [3174-clear-digits](https://github.com/tedacodder/myleetcode_solution/tree/master/3174-clear-digits) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0013-roman-to-integer](https://github.com/tedacodder/myleetcode_solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tedacodder/myleetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tedacodder/myleetcode_solution/tree/master/0020-valid-parentheses) |
@@ -131,8 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tedacodder/myleetcode_solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3174-clear-digits](https://github.com/tedacodder/myleetcode_solution/tree/master/3174-clear-digits) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/tedacodder/myleetcode_solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/tedacodder/myleetcode_solution/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/tedacodder/myleetcode_solution/tree/master/0076-minimum-window-substring) |
@@ -159,12 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tedacodder/myleetcode_solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tedacodder/myleetcode_solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/tedacodder/myleetcode_solution/tree/master/0169-majority-element) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0056-merge-intervals](https://github.com/tedacodder/myleetcode_solution/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/tedacodder/myleetcode_solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tedacodder/myleetcode_solution/tree/master/0217-contains-duplicate) |
@@ -180,8 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tedacodder/myleetcode_solution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tedacodder/myleetcode_solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/tedacodder/myleetcode_solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tedacodder/myleetcode_solution/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/tedacodder/myleetcode_solution/tree/master/0383-ransom-note) |
@@ -190,8 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/tedacodder/myleetcode_solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/tedacodder/myleetcode_solution/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tedacodder/myleetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tedacodder/myleetcode_solution/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tedacodder/myleetcode_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -206,22 +207,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/tedacodder/myleetcode_solution/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tedacodder/myleetcode_solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/tedacodder/myleetcode_solution/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/tedacodder/myleetcode_solution/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/tedacodder/myleetcode_solution/tree/master/0645-set-mismatch) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tedacodder/myleetcode_solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tedacodder/myleetcode_solution/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/tedacodder/myleetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/tedacodder/myleetcode_solution/tree/master/0933-number-of-recent-calls) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/tedacodder/myleetcode_solution/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/tedacodder/myleetcode_solution/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tedacodder/myleetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tedacodder/myleetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
@@ -238,14 +239,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/tedacodder/myleetcode_solution/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/tedacodder/myleetcode_solution/tree/master/3174-clear-digits) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0330-patching-array](https://github.com/tedacodder/myleetcode_solution/tree/master/0330-patching-array) |
 | [0455-assign-cookies](https://github.com/tedacodder/myleetcode_solution/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/tedacodder/myleetcode_solution/tree/master/0917-boats-to-save-people) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/tedacodder/myleetcode_solution/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/tedacodder/myleetcode_solution/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tedacodder/myleetcode_solution/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -253,89 +254,95 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/tedacodder/myleetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/tedacodder/myleetcode_solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/tedacodder/myleetcode_solution/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/tedacodder/myleetcode_solution/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/tedacodder/myleetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/tedacodder/myleetcode_solution/tree/master/1590-make-sum-divisible-by-p) |
 | [2102-find-the-middle-index-in-array](https://github.com/tedacodder/myleetcode_solution/tree/master/2102-find-the-middle-index-in-array) |
 | [2465-shifting-letters-ii](https://github.com/tedacodder/myleetcode_solution/tree/master/2465-shifting-letters-ii) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0118-pascals-triangle](https://github.com/tedacodder/myleetcode_solution/tree/master/0118-pascals-triangle) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/tedacodder/myleetcode_solution/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tedacodder/myleetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/tedacodder/myleetcode_solution/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/tedacodder/myleetcode_solution/tree/master/0451-sort-characters-by-frequency) |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0278-first-bad-version](https://github.com/tedacodder/myleetcode_solution/tree/master/0278-first-bad-version) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/tedacodder/myleetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/tedacodder/myleetcode_solution/tree/master/0739-daily-temperatures) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tedacodder/myleetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tedacodder/myleetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tedacodder/myleetcode_solution/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tedacodder/myleetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tedacodder/myleetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tedacodder/myleetcode_solution/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tedacodder/myleetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tedacodder/myleetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tedacodder/myleetcode_solution/tree/master/0145-binary-tree-postorder-traversal) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/tedacodder/myleetcode_solution/tree/master/0234-palindrome-linked-list) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0224-basic-calculator](https://github.com/tedacodder/myleetcode_solution/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/tedacodder/myleetcode_solution/tree/master/0234-palindrome-linked-list) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0155-min-stack](https://github.com/tedacodder/myleetcode_solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/tedacodder/myleetcode_solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tedacodder/myleetcode_solution/tree/master/0232-implement-queue-using-stacks) |
+| [0304-range-sum-query-2d-immutable](https://github.com/tedacodder/myleetcode_solution/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/tedacodder/myleetcode_solution/tree/master/0933-number-of-recent-calls) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/tedacodder/myleetcode_solution/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/tedacodder/myleetcode_solution/tree/master/0933-number-of-recent-calls) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/tedacodder/myleetcode_solution/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2413-smallest-even-multiple](https://github.com/tedacodder/myleetcode_solution/tree/master/2413-smallest-even-multiple) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/tedacodder/myleetcode_solution/tree/master/0014-longest-common-prefix) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tedacodder/myleetcode_solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/tedacodder/myleetcode_solution/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 <!---LeetCode Topics End-->
