@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/tedacodder/myleetcode_solution/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/tedacodder/myleetcode_solution/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/tedacodder/myleetcode_solution/tree/master/0917-boats-to-save-people) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/tedacodder/myleetcode_solution/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tedacodder/myleetcode_solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tedacodder/myleetcode_solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tedacodder/myleetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tedacodder/myleetcode_solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/tedacodder/myleetcode_solution/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/tedacodder/myleetcode_solution/tree/master/0645-set-mismatch) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/tedacodder/myleetcode_solution/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tedacodder/myleetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/tedacodder/myleetcode_solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1752-arithmetic-subarrays](https://github.com/tedacodder/myleetcode_solution/tree/master/1752-arithmetic-subarrays) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/tedacodder/myleetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tedacodder/myleetcode_solution/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/tedacodder/myleetcode_solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/tedacodder/myleetcode_solution/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/tedacodder/myleetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/tedacodder/myleetcode_solution/tree/master/1590-make-sum-divisible-by-p) |
 | [2102-find-the-middle-index-in-array](https://github.com/tedacodder/myleetcode_solution/tree/master/2102-find-the-middle-index-in-array) |
