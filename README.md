@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/tedacodder/myleetcode_solution/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/tedacodder/myleetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/tedacodder/myleetcode_solution/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0707-design-linked-list](https://github.com/tedacodder/myleetcode_solution/tree/main/0707-design-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/tedacodder/myleetcode_solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tedacodder/myleetcode_solution/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tedacodder/myleetcode_solution/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0707-design-linked-list](https://github.com/tedacodder/myleetcode_solution/tree/main/0707-design-linked-list/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/tedacodder/myleetcode_solution/tree/master/0933-number-of-recent-calls) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/tedacodder/myleetcode_solution/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
