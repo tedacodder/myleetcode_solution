@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tedacodder/myleetcode_solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tedacodder/myleetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/tedacodder/myleetcode_solution/tree/master/1470-shuffle-the-array) |
+| [1472-design-browser-history](https://github.com/tedacodder/myleetcode_solution/tree/main/1472-design-browser-history/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/tedacodder/myleetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/tedacodder/myleetcode_solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1646-kth-missing-positive-number](https://github.com/tedacodder/myleetcode_solution/tree/master/1646-kth-missing-positive-number) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/tedacodder/myleetcode_solution/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/tedacodder/myleetcode_solution/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/tedacodder/myleetcode_solution/tree/master/0844-backspace-string-compare) |
+| [1472-design-browser-history](https://github.com/tedacodder/myleetcode_solution/tree/main/1472-design-browser-history/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/tedacodder/myleetcode_solution/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/tedacodder/myleetcode_solution/tree/master/3174-clear-digits) |
 ## Greedy
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/tedacodder/myleetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/tedacodder/myleetcode_solution/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/tedacodder/myleetcode_solution/tree/main/0707-design-linked-list/) | Medium |
+| [1472-design-browser-history](https://github.com/tedacodder/myleetcode_solution/tree/main/1472-design-browser-history/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,11 +343,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/tedacodder/myleetcode_solution/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0707-design-linked-list](https://github.com/tedacodder/myleetcode_solution/tree/main/0707-design-linked-list/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/tedacodder/myleetcode_solution/tree/master/0933-number-of-recent-calls) |
+| [1472-design-browser-history](https://github.com/tedacodder/myleetcode_solution/tree/main/1472-design-browser-history/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/tedacodder/myleetcode_solution/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/tedacodder/myleetcode_solution/tree/master/0933-number-of-recent-calls) |
+| [1472-design-browser-history](https://github.com/tedacodder/myleetcode_solution/tree/main/1472-design-browser-history/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/tedacodder/myleetcode_solution/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -359,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/tedacodder/myleetcode_solution/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/tedacodder/myleetcode_solution/tree/main/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
