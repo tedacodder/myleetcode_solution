@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/tedacodder/myleetcode_solution/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/tedacodder/myleetcode_solution/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/tedacodder/myleetcode_solution/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/tedacodder/myleetcode_solution/tree/main/0856-score-of-parentheses/) | Medium |
 | [0925-long-pressed-name](https://github.com/tedacodder/myleetcode_solution/tree/master/0925-long-pressed-name) |
 | [1598-crawler-log-folder](https://github.com/tedacodder/myleetcode_solution/tree/main/1598-crawler-log-folder/) | Easy |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/tedacodder/myleetcode_solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/tedacodder/myleetcode_solution/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/tedacodder/myleetcode_solution/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/tedacodder/myleetcode_solution/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/tedacodder/myleetcode_solution/tree/main/0856-score-of-parentheses/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/tedacodder/myleetcode_solution/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1472-design-browser-history](https://github.com/tedacodder/myleetcode_solution/tree/main/1472-design-browser-history/) | Medium |
 | [1598-crawler-log-folder](https://github.com/tedacodder/myleetcode_solution/tree/main/1598-crawler-log-folder/) | Easy |
