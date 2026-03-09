@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/tedacodder/myleetcode_solution/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tedacodder/myleetcode_solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/tedacodder/myleetcode_solution/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2390-removing-stars-from-a-string](https://github.com/tedacodder/myleetcode_solution/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2639-separate-the-digits-in-an-array](https://github.com/tedacodder/myleetcode_solution/tree/master/2639-separate-the-digits-in-an-array) |
 | [3174-clear-digits](https://github.com/tedacodder/myleetcode_solution/tree/master/3174-clear-digits) |
 ## String
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/tedacodder/myleetcode_solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/tedacodder/myleetcode_solution/tree/master/2000-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tedacodder/myleetcode_solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2390-removing-stars-from-a-string](https://github.com/tedacodder/myleetcode_solution/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2465-shifting-letters-ii](https://github.com/tedacodder/myleetcode_solution/tree/master/2465-shifting-letters-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tedacodder/myleetcode_solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3174-clear-digits](https://github.com/tedacodder/myleetcode_solution/tree/master/3174-clear-digits) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/tedacodder/myleetcode_solution/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1472-design-browser-history](https://github.com/tedacodder/myleetcode_solution/tree/main/1472-design-browser-history/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/tedacodder/myleetcode_solution/tree/master/2000-reverse-prefix-of-word) |
+| [2390-removing-stars-from-a-string](https://github.com/tedacodder/myleetcode_solution/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3174-clear-digits](https://github.com/tedacodder/myleetcode_solution/tree/master/3174-clear-digits) |
 ## Greedy
 | Problem Name | Difficulty |
