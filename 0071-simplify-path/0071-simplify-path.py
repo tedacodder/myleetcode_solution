@@ -4,13 +4,11 @@ class Solution:
         stack=[]
         print(files)
         for f in files:
-            if f=="":
+            if f=="" or f==".":
                 continue
             elif f=="..":
                 if stack:
                     stack.pop()
-            elif f==".":
-                continue
             else:
                 stack.append(f)
         return "/"+"/".join(stack)
