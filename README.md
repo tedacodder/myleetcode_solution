@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/tedacodder/myleetcode_solution/tree/main/1472-design-browser-history/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/tedacodder/myleetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/tedacodder/myleetcode_solution/tree/master/1590-make-sum-divisible-by-p) |
+| [1598-crawler-log-folder](https://github.com/tedacodder/myleetcode_solution/tree/main/1598-crawler-log-folder/) | Easy |
 | [1646-kth-missing-positive-number](https://github.com/tedacodder/myleetcode_solution/tree/master/1646-kth-missing-positive-number) |
 | [1752-arithmetic-subarrays](https://github.com/tedacodder/myleetcode_solution/tree/master/1752-arithmetic-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tedacodder/myleetcode_solution/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/tedacodder/myleetcode_solution/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/tedacodder/myleetcode_solution/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/tedacodder/myleetcode_solution/tree/master/0925-long-pressed-name) |
+| [1598-crawler-log-folder](https://github.com/tedacodder/myleetcode_solution/tree/main/1598-crawler-log-folder/) | Easy |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/tedacodder/myleetcode_solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/tedacodder/myleetcode_solution/tree/master/2000-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tedacodder/myleetcode_solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/tedacodder/myleetcode_solution/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tedacodder/myleetcode_solution/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1472-design-browser-history](https://github.com/tedacodder/myleetcode_solution/tree/main/1472-design-browser-history/) | Medium |
+| [1598-crawler-log-folder](https://github.com/tedacodder/myleetcode_solution/tree/main/1598-crawler-log-folder/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/tedacodder/myleetcode_solution/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/tedacodder/myleetcode_solution/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3174-clear-digits](https://github.com/tedacodder/myleetcode_solution/tree/master/3174-clear-digits) |
