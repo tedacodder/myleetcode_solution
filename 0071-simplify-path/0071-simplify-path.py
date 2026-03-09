@@ -12,3 +12,4 @@ class Solution:
             else:
                 stack.append(f)
         return "/"+"/".join(stack)
+
