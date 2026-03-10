@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/tedacodder/myleetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/tedacodder/myleetcode_solution/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/tedacodder/myleetcode_solution/tree/master/0682-baseball-game) |
+| [0690-employee-importance](https://github.com/tedacodder/myleetcode_solution/tree/main/0690-employee-importance/) | Medium |
 | [0739-daily-temperatures](https://github.com/tedacodder/myleetcode_solution/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/tedacodder/myleetcode_solution/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/tedacodder/myleetcode_solution/tree/master/0907-koko-eating-bananas) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tedacodder/myleetcode_solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/tedacodder/myleetcode_solution/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/tedacodder/myleetcode_solution/tree/master/0645-set-mismatch) |
+| [0690-employee-importance](https://github.com/tedacodder/myleetcode_solution/tree/main/0690-employee-importance/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tedacodder/myleetcode_solution/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tedacodder/myleetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/tedacodder/myleetcode_solution/tree/master/1590-make-sum-divisible-by-p) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/tedacodder/myleetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tedacodder/myleetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tedacodder/myleetcode_solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0690-employee-importance](https://github.com/tedacodder/myleetcode_solution/tree/main/0690-employee-importance/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/tedacodder/myleetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tedacodder/myleetcode_solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0547-number-of-provinces](https://github.com/tedacodder/myleetcode_solution/tree/main/0547-number-of-provinces/) | Medium |
+| [0690-employee-importance](https://github.com/tedacodder/myleetcode_solution/tree/main/0690-employee-importance/) | Medium |
 | [0841-keys-and-rooms](https://github.com/tedacodder/myleetcode_solution/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/tedacodder/myleetcode_solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/tedacodder/myleetcode_solution/tree/main/0547-number-of-provinces/) | Medium |
+| [0690-employee-importance](https://github.com/tedacodder/myleetcode_solution/tree/main/0690-employee-importance/) | Medium |
 | [0841-keys-and-rooms](https://github.com/tedacodder/myleetcode_solution/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/tedacodder/myleetcode_solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
