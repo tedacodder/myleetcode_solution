@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/tedacodder/myleetcode_solution/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/tedacodder/myleetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/tedacodder/myleetcode_solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0641-design-circular-deque](https://github.com/tedacodder/myleetcode_solution/tree/main/0641-design-circular-deque/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/tedacodder/myleetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/tedacodder/myleetcode_solution/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/tedacodder/myleetcode_solution/tree/master/0682-baseball-game) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/tedacodder/myleetcode_solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tedacodder/myleetcode_solution/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/tedacodder/myleetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0641-design-circular-deque](https://github.com/tedacodder/myleetcode_solution/tree/main/0641-design-circular-deque/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/tedacodder/myleetcode_solution/tree/master/0933-number-of-recent-calls) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/tedacodder/myleetcode_solution/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Stack
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/tedacodder/myleetcode_solution/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/tedacodder/myleetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/tedacodder/myleetcode_solution/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0641-design-circular-deque](https://github.com/tedacodder/myleetcode_solution/tree/main/0641-design-circular-deque/) | Medium |
 | [0707-design-linked-list](https://github.com/tedacodder/myleetcode_solution/tree/main/0707-design-linked-list/) | Medium |
 | [1472-design-browser-history](https://github.com/tedacodder/myleetcode_solution/tree/main/1472-design-browser-history/) | Medium |
 ## Recursion
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/tedacodder/myleetcode_solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tedacodder/myleetcode_solution/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tedacodder/myleetcode_solution/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0641-design-circular-deque](https://github.com/tedacodder/myleetcode_solution/tree/main/0641-design-circular-deque/) | Medium |
 | [0707-design-linked-list](https://github.com/tedacodder/myleetcode_solution/tree/main/0707-design-linked-list/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/tedacodder/myleetcode_solution/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/tedacodder/myleetcode_solution/tree/main/1472-design-browser-history/) | Medium |
