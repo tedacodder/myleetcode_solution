@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/tedacodder/myleetcode_solution/tree/main/1598-crawler-log-folder/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/tedacodder/myleetcode_solution/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/tedacodder/myleetcode_solution/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/tedacodder/myleetcode_solution/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [3174-clear-digits](https://github.com/tedacodder/myleetcode_solution/tree/master/3174-clear-digits) |
 ## Greedy
 | Problem Name | Difficulty |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/tedacodder/myleetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/tedacodder/myleetcode_solution/tree/master/0739-daily-temperatures) |
+| [2487-remove-nodes-from-linked-list](https://github.com/tedacodder/myleetcode_solution/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/tedacodder/myleetcode_solution/tree/main/0641-design-circular-deque/) | Medium |
 | [0707-design-linked-list](https://github.com/tedacodder/myleetcode_solution/tree/main/0707-design-linked-list/) | Medium |
 | [1472-design-browser-history](https://github.com/tedacodder/myleetcode_solution/tree/main/1472-design-browser-history/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/tedacodder/myleetcode_solution/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/tedacodder/myleetcode_solution/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/tedacodder/myleetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/tedacodder/myleetcode_solution/tree/main/0342-power-of-four/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/tedacodder/myleetcode_solution/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
