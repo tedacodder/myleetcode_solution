@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/tedacodder/myleetcode_solution/tree/main/0690-employee-importance/) | Medium |
 | [0739-daily-temperatures](https://github.com/tedacodder/myleetcode_solution/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/tedacodder/myleetcode_solution/tree/master/0792-binary-search) |
+| [0860-lemonade-change](https://github.com/tedacodder/myleetcode_solution/tree/main/0860-lemonade-change/) | Easy |
 | [0907-koko-eating-bananas](https://github.com/tedacodder/myleetcode_solution/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/tedacodder/myleetcode_solution/tree/master/0917-boats-to-save-people) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tedacodder/myleetcode_solution/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0330-patching-array](https://github.com/tedacodder/myleetcode_solution/tree/master/0330-patching-array) |
 | [0455-assign-cookies](https://github.com/tedacodder/myleetcode_solution/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/tedacodder/myleetcode_solution/tree/main/0860-lemonade-change/) | Easy |
 | [0917-boats-to-save-people](https://github.com/tedacodder/myleetcode_solution/tree/master/0917-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/tedacodder/myleetcode_solution/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Sliding Window
