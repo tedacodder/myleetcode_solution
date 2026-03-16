@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/tedacodder/myleetcode_solution/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/tedacodder/myleetcode_solution/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tedacodder/myleetcode_solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1029-two-city-scheduling](https://github.com/tedacodder/myleetcode_solution/tree/main/1029-two-city-scheduling/) | Medium |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tedacodder/myleetcode_solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tedacodder/myleetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/tedacodder/myleetcode_solution/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/tedacodder/myleetcode_solution/tree/master/0645-set-mismatch) |
 | [0917-boats-to-save-people](https://github.com/tedacodder/myleetcode_solution/tree/master/0917-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/tedacodder/myleetcode_solution/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1029-two-city-scheduling](https://github.com/tedacodder/myleetcode_solution/tree/main/1029-two-city-scheduling/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tedacodder/myleetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1752-arithmetic-subarrays](https://github.com/tedacodder/myleetcode_solution/tree/master/1752-arithmetic-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tedacodder/myleetcode_solution/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/tedacodder/myleetcode_solution/tree/main/0860-lemonade-change/) | Easy |
 | [0917-boats-to-save-people](https://github.com/tedacodder/myleetcode_solution/tree/master/0917-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/tedacodder/myleetcode_solution/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1029-two-city-scheduling](https://github.com/tedacodder/myleetcode_solution/tree/main/1029-two-city-scheduling/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
