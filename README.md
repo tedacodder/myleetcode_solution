@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/tedacodder/myleetcode_solution/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/tedacodder/myleetcode_solution/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/tedacodder/myleetcode_solution/tree/master/0415-add-strings) |
+| [0509-fibonacci-number](https://github.com/tedacodder/myleetcode_solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/tedacodder/myleetcode_solution/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [2324-find-triangular-sum-of-an-array](https://github.com/tedacodder/myleetcode_solution/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/tedacodder/myleetcode_solution/tree/master/2413-smallest-even-multiple) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/tedacodder/myleetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/tedacodder/myleetcode_solution/tree/master/0118-pascals-triangle) |
+| [0509-fibonacci-number](https://github.com/tedacodder/myleetcode_solution/tree/main/0509-fibonacci-number/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/tedacodder/myleetcode_solution/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/tedacodder/myleetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/tedacodder/myleetcode_solution/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/tedacodder/myleetcode_solution/tree/main/0509-fibonacci-number/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/tedacodder/myleetcode_solution/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -426,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/tedacodder/myleetcode_solution/tree/main/0841-keys-and-rooms/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/tedacodder/myleetcode_solution/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/tedacodder/myleetcode_solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/tedacodder/myleetcode_solution/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
