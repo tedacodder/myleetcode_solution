@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/tedacodder/myleetcode_solution/tree/master/0682-baseball-game) |
 | [0690-employee-importance](https://github.com/tedacodder/myleetcode_solution/tree/main/0690-employee-importance/) | Medium |
 | [0739-daily-temperatures](https://github.com/tedacodder/myleetcode_solution/tree/master/0739-daily-temperatures) |
+| [0781-rabbits-in-forest](https://github.com/tedacodder/myleetcode_solution/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0792-binary-search](https://github.com/tedacodder/myleetcode_solution/tree/master/0792-binary-search) |
 | [0860-lemonade-change](https://github.com/tedacodder/myleetcode_solution/tree/main/0860-lemonade-change/) | Easy |
 | [0907-koko-eating-bananas](https://github.com/tedacodder/myleetcode_solution/tree/master/0907-koko-eating-bananas) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/tedacodder/myleetcode_solution/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/tedacodder/myleetcode_solution/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/tedacodder/myleetcode_solution/tree/main/0509-fibonacci-number/) | Easy |
+| [0781-rabbits-in-forest](https://github.com/tedacodder/myleetcode_solution/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/tedacodder/myleetcode_solution/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [2324-find-triangular-sum-of-an-array](https://github.com/tedacodder/myleetcode_solution/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/tedacodder/myleetcode_solution/tree/master/2413-smallest-even-multiple) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/tedacodder/myleetcode_solution/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/tedacodder/myleetcode_solution/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/tedacodder/myleetcode_solution/tree/main/0690-employee-importance/) | Medium |
+| [0781-rabbits-in-forest](https://github.com/tedacodder/myleetcode_solution/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tedacodder/myleetcode_solution/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tedacodder/myleetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/tedacodder/myleetcode_solution/tree/master/1590-make-sum-divisible-by-p) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/tedacodder/myleetcode_solution/tree/main/0055-jump-game/) | Medium |
 | [0330-patching-array](https://github.com/tedacodder/myleetcode_solution/tree/master/0330-patching-array) |
 | [0455-assign-cookies](https://github.com/tedacodder/myleetcode_solution/tree/master/0455-assign-cookies) |
+| [0781-rabbits-in-forest](https://github.com/tedacodder/myleetcode_solution/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0860-lemonade-change](https://github.com/tedacodder/myleetcode_solution/tree/main/0860-lemonade-change/) | Easy |
 | [0917-boats-to-save-people](https://github.com/tedacodder/myleetcode_solution/tree/master/0917-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/tedacodder/myleetcode_solution/tree/main/0976-largest-perimeter-triangle/) | Easy |
