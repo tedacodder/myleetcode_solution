@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/tedacodder/myleetcode_solution/tree/master/0739-daily-temperatures) |
 | [0781-rabbits-in-forest](https://github.com/tedacodder/myleetcode_solution/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0792-binary-search](https://github.com/tedacodder/myleetcode_solution/tree/master/0792-binary-search) |
+| [0811-subdomain-visit-count](https://github.com/tedacodder/myleetcode_solution/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0860-lemonade-change](https://github.com/tedacodder/myleetcode_solution/tree/main/0860-lemonade-change/) | Easy |
 | [0907-koko-eating-bananas](https://github.com/tedacodder/myleetcode_solution/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/tedacodder/myleetcode_solution/tree/master/0917-boats-to-save-people) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/tedacodder/myleetcode_solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/tedacodder/myleetcode_solution/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/tedacodder/myleetcode_solution/tree/master/0567-permutation-in-string) |
+| [0811-subdomain-visit-count](https://github.com/tedacodder/myleetcode_solution/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0844-backspace-string-compare](https://github.com/tedacodder/myleetcode_solution/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/tedacodder/myleetcode_solution/tree/main/0856-score-of-parentheses/) | Medium |
 | [0925-long-pressed-name](https://github.com/tedacodder/myleetcode_solution/tree/master/0925-long-pressed-name) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/tedacodder/myleetcode_solution/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/tedacodder/myleetcode_solution/tree/main/0690-employee-importance/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/tedacodder/myleetcode_solution/tree/main/0781-rabbits-in-forest/) | Medium |
+| [0811-subdomain-visit-count](https://github.com/tedacodder/myleetcode_solution/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tedacodder/myleetcode_solution/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tedacodder/myleetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/tedacodder/myleetcode_solution/tree/master/1590-make-sum-divisible-by-p) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/tedacodder/myleetcode_solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tedacodder/myleetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/tedacodder/myleetcode_solution/tree/master/0451-sort-characters-by-frequency) |
+| [0811-subdomain-visit-count](https://github.com/tedacodder/myleetcode_solution/tree/main/0811-subdomain-visit-count/) | Medium |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/tedacodder/myleetcode_solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/tedacodder/myleetcode_solution/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Binary Search
