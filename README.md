@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tedacodder/myleetcode_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/tedacodder/myleetcode_solution/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/tedacodder/myleetcode_solution/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/tedacodder/myleetcode_solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/tedacodder/myleetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/tedacodder/myleetcode_solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0641-design-circular-deque](https://github.com/tedacodder/myleetcode_solution/tree/main/0641-design-circular-deque/) | Medium |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/tedacodder/myleetcode_solution/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/tedacodder/myleetcode_solution/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/tedacodder/myleetcode_solution/tree/master/0415-add-strings) |
+| [0486-predict-the-winner](https://github.com/tedacodder/myleetcode_solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/tedacodder/myleetcode_solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/tedacodder/myleetcode_solution/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/tedacodder/myleetcode_solution/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/tedacodder/myleetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/tedacodder/myleetcode_solution/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/tedacodder/myleetcode_solution/tree/master/0118-pascals-triangle) |
+| [0486-predict-the-winner](https://github.com/tedacodder/myleetcode_solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/tedacodder/myleetcode_solution/tree/main/0509-fibonacci-number/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/tedacodder/myleetcode_solution/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/tedacodder/myleetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/tedacodder/myleetcode_solution/tree/main/0342-power-of-four/) | Easy |
+| [0486-predict-the-winner](https://github.com/tedacodder/myleetcode_solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/tedacodder/myleetcode_solution/tree/main/0509-fibonacci-number/) | Easy |
 | [1922-count-good-numbers](https://github.com/tedacodder/myleetcode_solution/tree/main/1922-count-good-numbers/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/tedacodder/myleetcode_solution/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
@@ -465,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/tedacodder/myleetcode_solution/tree/main/0509-fibonacci-number/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/tedacodder/myleetcode_solution/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
