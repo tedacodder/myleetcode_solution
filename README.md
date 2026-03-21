@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tedacodder/myleetcode_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tedacodder/myleetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tedacodder/myleetcode_solution/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/tedacodder/myleetcode_solution/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/tedacodder/myleetcode_solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tedacodder/myleetcode_solution/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/tedacodder/myleetcode_solution/tree/master/0229-majority-element-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/tedacodder/myleetcode_solution/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/tedacodder/myleetcode_solution/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/tedacodder/myleetcode_solution/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/tedacodder/myleetcode_solution/tree/main/0179-largest-number/) | Medium |
 | [0224-basic-calculator](https://github.com/tedacodder/myleetcode_solution/tree/master/0224-basic-calculator) |
 | [0383-ransom-note](https://github.com/tedacodder/myleetcode_solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tedacodder/myleetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/tedacodder/myleetcode_solution/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/tedacodder/myleetcode_solution/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/tedacodder/myleetcode_solution/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/tedacodder/myleetcode_solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/tedacodder/myleetcode_solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tedacodder/myleetcode_solution/tree/master/0268-missing-number) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/tedacodder/myleetcode_solution/tree/main/0055-jump-game/) | Medium |
+| [0179-largest-number](https://github.com/tedacodder/myleetcode_solution/tree/main/0179-largest-number/) | Medium |
 | [0330-patching-array](https://github.com/tedacodder/myleetcode_solution/tree/master/0330-patching-array) |
 | [0455-assign-cookies](https://github.com/tedacodder/myleetcode_solution/tree/master/0455-assign-cookies) |
 | [0781-rabbits-in-forest](https://github.com/tedacodder/myleetcode_solution/tree/main/0781-rabbits-in-forest/) | Medium |
