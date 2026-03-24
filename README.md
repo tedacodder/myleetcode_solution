@@ -479,4 +479,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/tedacodder/myleetcode_solution/tree/main/0486-predict-the-winner/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0077-combinations](https://github.com/tedacodder/myleetcode_solution/tree/main/0077-combinations/) | Medium |
 <!---LeetCode Topics End-->
