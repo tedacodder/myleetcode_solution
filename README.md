@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/tedacodder/myleetcode_solution/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/tedacodder/myleetcode_solution/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/tedacodder/myleetcode_solution/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/tedacodder/myleetcode_solution/tree/main/0078-subsets/) | Medium |
 | [0118-pascals-triangle](https://github.com/tedacodder/myleetcode_solution/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tedacodder/myleetcode_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tedacodder/myleetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/tedacodder/myleetcode_solution/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/tedacodder/myleetcode_solution/tree/main/0078-subsets/) | Medium |
 | [0268-missing-number](https://github.com/tedacodder/myleetcode_solution/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/tedacodder/myleetcode_solution/tree/main/0342-power-of-four/) | Easy |
 | [0645-set-mismatch](https://github.com/tedacodder/myleetcode_solution/tree/master/0645-set-mismatch) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0077-combinations](https://github.com/tedacodder/myleetcode_solution/tree/main/0077-combinations/) | Medium |
+| [0078-subsets](https://github.com/tedacodder/myleetcode_solution/tree/main/0078-subsets/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
