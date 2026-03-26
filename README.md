@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/tedacodder/myleetcode_solution/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/tedacodder/myleetcode_solution/tree/master/2102-find-the-middle-index-in-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tedacodder/myleetcode_solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2305-fair-distribution-of-cookies](https://github.com/tedacodder/myleetcode_solution/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/tedacodder/myleetcode_solution/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/tedacodder/myleetcode_solution/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2465-shifting-letters-ii](https://github.com/tedacodder/myleetcode_solution/tree/master/2465-shifting-letters-ii) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tedacodder/myleetcode_solution/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/tedacodder/myleetcode_solution/tree/main/0342-power-of-four/) | Easy |
 | [0645-set-mismatch](https://github.com/tedacodder/myleetcode_solution/tree/master/0645-set-mismatch) |
+| [2305-fair-distribution-of-cookies](https://github.com/tedacodder/myleetcode_solution/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/tedacodder/myleetcode_solution/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/tedacodder/myleetcode_solution/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/tedacodder/myleetcode_solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/tedacodder/myleetcode_solution/tree/main/0509-fibonacci-number/) | Easy |
+| [2305-fair-distribution-of-cookies](https://github.com/tedacodder/myleetcode_solution/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0077-combinations](https://github.com/tedacodder/myleetcode_solution/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/tedacodder/myleetcode_solution/tree/main/0078-subsets/) | Medium |
+| [2305-fair-distribution-of-cookies](https://github.com/tedacodder/myleetcode_solution/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -511,4 +515,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tedacodder/myleetcode_solution/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/tedacodder/myleetcode_solution/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 <!---LeetCode Topics End-->
