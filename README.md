@@ -502,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/tedacodder/myleetcode_solution/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/tedacodder/myleetcode_solution/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/tedacodder/myleetcode_solution/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/tedacodder/myleetcode_solution/tree/main/0078-subsets/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/tedacodder/myleetcode_solution/tree/main/2305-fair-distribution-of-cookies/) | Medium |
