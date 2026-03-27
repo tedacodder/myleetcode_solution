@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/tedacodder/myleetcode_solution/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tedacodder/myleetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tedacodder/myleetcode_solution/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/tedacodder/myleetcode_solution/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/tedacodder/myleetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/tedacodder/myleetcode_solution/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/tedacodder/myleetcode_solution/tree/master/0056-merge-intervals) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/tedacodder/myleetcode_solution/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/tedacodder/myleetcode_solution/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/tedacodder/myleetcode_solution/tree/main/0078-subsets/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/tedacodder/myleetcode_solution/tree/main/2305-fair-distribution-of-cookies/) | Medium |
